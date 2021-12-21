@@ -1,0 +1,16 @@
+@import url(./Style/Form.css);
+@import url(./Style/SittButtons.css);
+@import url(./Style/List.css);
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,600&display=swap');
+
+
+body{
+  font-family: 'Lora', serif;
+}
+
+.work-experine-mainform{
+  width: 50%;
+  margin: auto;
+}
+
+button,.icon{cursor: pointer;}
